@@ -7,7 +7,7 @@ body {
 header {
     margin: 0  ;
     background-color: rgb(255, 160, 36);
-    height: 170px;
+    height: 200px;
     padding: 0;
     background-image: linear-gradient(to bottom, rgb(255, 193, 22), rgb(255, 136, 0));
 }
@@ -20,6 +20,7 @@ header > h1 {
 img {
     width: 270px;
     margin-top: 20px;
+    border-radius: 20%;
     }
 section {
     background-color: rgba(0, 0, 0, 0.192);
@@ -109,7 +110,7 @@ p {
 }
 
 h2 {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 h1 {
