@@ -6,10 +6,10 @@ body {
 
 header {
     margin: 0  ;
-    background-color: rgb(255, 160, 36);
+    background-color: rgb(218, 36, 255);
     height: 200px;
     padding: 0;
-    background-image: linear-gradient(to bottom, rgb(255, 193, 22), rgb(255, 136, 0));
+    background-image: linear-gradient(to bottom, rgb(189, 22, 255), rgb(119, 0, 255));
 }
 .img-container {
     text-align: center;
@@ -68,7 +68,7 @@ nav > ul > li {
 }
 nav > ul > li > a {
     text-decoration: none;
-    color: rgb(255, 154, 22);
+    color: rgb(223, 168, 255);
     line-height: 2.5rem;
     font-size: 1.5rem;
     transition: all 300ms;
